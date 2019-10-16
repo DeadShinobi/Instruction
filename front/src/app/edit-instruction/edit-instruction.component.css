@@ -1,0 +1,6 @@
+
+.example-container {
+  height: 500px;
+  overflow-x: auto;
+  align-items: center;
+}
